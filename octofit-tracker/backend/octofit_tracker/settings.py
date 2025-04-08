@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-9ogs%btbv^hs4s&rypce5xbpc_38q*y*_r_^!w#%&_tu03fmt#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'animated-tribble-7vx7xwq5wqr3rxw-8000.app.github.dev']
 
 
 # Application definition
